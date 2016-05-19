@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        ChangeVision v1.0
+tagline:      Плагин для создания версии сайта для слабовидящих
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Author name
-  url:        http://yourhomepage.com 
+  url:        http://changevision-plugin.github.io 
 
 # Gems
 gems:
